@@ -68,7 +68,7 @@
     "readable-stream": "^2.3.6",
     "stack-trace": "0.0.x",
     "triple-beam": "github:tahir-shakil/triple-beam#main",
-    "winston-transport": "^4.2.0"
+    "winston-transport": "github:tahir-shakil/winston-transport#4.2.0"
   },
   "description": "A logger for just about everything.",
   "devDependencies": {
@@ -85,7 +85,7 @@
     "split2": "^3.0.0",
     "std-mocks": "^1.0.0",
     "through2": "^2.0.0",
-    "winston-compat": "^0.1.1"
+    "winston-compat": "github:tahir-shakil/winston-compat#0.1.4"
   },
   "directories": {},
   "dist": {
